@@ -7,3 +7,5 @@ BLK Rencana Materi
 - Laravel
 - fundamental struktur data
 - Belajar IOT
+- Belajar Phyton
+
