@@ -5,3 +5,4 @@ BLK Rencana Materi
 - Kotlin
 - codeigniter
 - Laravel
+- fundamental struktur data
