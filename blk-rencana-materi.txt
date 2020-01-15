@@ -6,3 +6,4 @@ BLK Rencana Materi
 - codeigniter
 - Laravel
 - fundamental struktur data
+- Belajar Phyton
